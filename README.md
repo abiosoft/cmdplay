@@ -21,4 +21,4 @@ Hackathon quality code.
 I have not yet decided to improve and/or maintain this.
 
 ### Demo
-[![asciicast](https://asciinema.org/a/5d9ag4s6p5jyt7zq4omd9z7so.png)](https://asciinema.org/a/5d9ag4s6p5jyt7zq4omd9z7so)
+[asciinema.org/a/5d9ag4s6p5jyt7zq4omd9z7so](https://asciinema.org/a/5d9ag4s6p5jyt7zq4omd9z7so)
