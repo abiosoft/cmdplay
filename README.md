@@ -17,7 +17,7 @@ cmdplay -f <input file>
 ```
 
 ### Note
-Hackathon quality code. Still has many loopholes.
+Hackathon quality code.
 I have not yet decided to improve and/or maintain this.
 
 ### Demo
